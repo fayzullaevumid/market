@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.image{
+    width: 14rem;
+    height: 14rem;
+}
+.card-container{
+    width: 14rem;
+    height: 21rem;
+    margin: 1rem;
+}
+.card-2{
+    display: flex;
+}
+.button-cart{
+    width: 14rem;
+    height: 1.5rem;
+    border: none;
+    background-color: black;
+    color: white;
+    margin-top: 0.5rem;
+    margin-left: 0;
+}

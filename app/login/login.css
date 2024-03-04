@@ -1,0 +1,51 @@
+.login-card{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 20rem;
+    height: 27rem;
+    background-color: transparent;
+    margin-left: 37rem;
+    margin-top: 8rem;
+    border: 5px 5px 5px solid black;
+    box-shadow: 0 2px 2px 2px grey;
+}
+input{
+    outline: none;
+    width: 18rem;
+    height: 2.5rem;
+    color: black;
+    margin-top: 3rem;
+    border: 1px solid aquamarine;
+    background-color: rgb(225, 250, 242);
+}
+#button{
+    width: 18rem;
+    height: 2rem;
+    border: none;
+    cursor: pointer;
+    margin-top: 2rem;
+    background-color: black;
+    color: white;
+}
+.text{
+    margin-top: 1.5rem;
+    font-size: 1.1rem;
+}
+.text-4{
+    font-size: 1.4rem;
+    margin-top: 1rem;
+}
+.text-3{
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+}
+#button-1{
+    width: 18rem;
+    height: 2rem;
+    border: none;
+    margin-left: 1rem;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}

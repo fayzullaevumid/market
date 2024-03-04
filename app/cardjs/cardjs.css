@@ -1,0 +1,18 @@
+.cardss{
+    width: 14rem;
+    height: 18rem;
+    margin: 2rem;
+    margin-bottom: 2rem;
+}
+img{
+    width: 14rem;
+    height: 16rem;
+}
+.delete{
+    margin-top: 1rem;
+    height: 2rem;
+    width: 14rem;
+    color: white;
+    background-color: black;
+    margin-left: 0;
+}

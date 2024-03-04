@@ -1,0 +1,17 @@
+.image{
+    width: 14rem;
+    height: 14rem;
+}
+.card-container{
+    width: 14rem;
+    height: 18rem;
+    padding: 1rem;
+}
+.button-cart{
+    width: 14rem;
+    height: 1.5rem;
+    border: none;
+    background-color: black;
+    color: white;
+    margin-top: 0.5rem;
+}
